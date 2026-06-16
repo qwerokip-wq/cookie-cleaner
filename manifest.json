@@ -5,9 +5,9 @@
   "description": "Быстрое удаление куки-файлов браузера. Одна кнопка — удалить куки текущей страницы, вторая — удалить все куки.",
   "developer": {
     "name": "Cookie Cleaner Dev",
-    "url": "https://github.com/qwerokip/cookie-cleaner"
+    "url": "https://github.com/qwerokip-wq/cookie-cleaner"
   },
-  "homepage_url": "https://github.com/qwerokip/cookie-cleaner",
+  "homepage_url": "https://github.com/qwerokip-wq/cookie-cleaner",
   "permissions": [
     "cookies",
     "activeTab",
