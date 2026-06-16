@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "name": "Cookie Cleaner",
+  "version": "1.0.0",
+  "description": "Быстрое удаление куки-файлов браузера. Одна кнопка — удалить куки текущей страницы, вторая — удалить все куки.",
+  "developer": {
+    "name": "Cookie Cleaner Dev",
+    "url": "https://github.com/qwerokip-wq/cookie-cleaner"
+  },
+  "homepage_url": "https://github.com/qwerokip-wq/cookie-cleaner",
+  "permissions": [
+    "cookies",
+    "activeTab",
+    "<all_urls>"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{f245f77a-00b7-415f-a7ac-28ee24465c66}",
+      "strict_min_version": "142.0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    },
+    "gecko_android": {
+      "strict_min_version": "142.0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+  "browser_action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "Cookie Cleaner",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "48": "icons/icon-48.png",
+      "96": "icons/icon-96.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon-16.png",
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  }
+}
