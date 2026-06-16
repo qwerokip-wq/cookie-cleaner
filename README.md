@@ -2,6 +2,8 @@
 
 A simple Firefox extension that deletes cookies with one click.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - **Delete Page Cookies** — removes all cookies for the current website (including parent domain) and reloads the page
