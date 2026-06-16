@@ -17,4 +17,4 @@
 ## Контакты
 
 Если у вас есть вопросы, создайте issue на GitHub:
-https://github.com/qwerokip-wq/cookie-cleaner
+https://github.com/qwerokip/cookie-cleaner
