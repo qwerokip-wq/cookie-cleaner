@@ -13,7 +13,7 @@
 
 ## Установка
 
-Установить из [Firefox Add-ons (AMO)](https://addons.mozilla.org/firefox/addon/cookie-cleaner/).
+Установить из [Firefox Add-ons (AMO)](https://addons.mozilla.org/ru/firefox/addon/clean-my-cookies/).
 
 ## Ручная установка
 

@@ -11,7 +11,7 @@ A simple Firefox extension that deletes cookies with one click.
 
 ## Installation
 
-Install from [Firefox Add-ons (AMO)](https://addons.mozilla.org/firefox/addon/cookie-cleaner/).
+Install from [Firefox Add-ons (AMO)](https://addons.mozilla.org/ru/firefox/addon/clean-my-cookies/).
 
 ## Manual Installation
 
