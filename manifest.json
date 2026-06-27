@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Cookie Cleaner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Быстрое удаление куки-файлов браузера. Одна кнопка — удалить куки текущей страницы, вторая — удалить все куки.",
   "developer": {
     "name": "Cookie Cleaner Dev",
